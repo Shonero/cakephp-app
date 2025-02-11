@@ -1,3 +1,9 @@
+
+Admin: Manuel@gmail.com / 1234
+User: usuario2@gmail.com / 1234
+
+
+
 # CakePHP
 
 [![Latest Stable Version](https://poser.pugx.org/cakephp/cakephp/v/stable.svg)](https://packagist.org/packages/cakephp/cakephp)
